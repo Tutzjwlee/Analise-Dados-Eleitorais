@@ -64,10 +64,11 @@ Confira nossa apresentação em vídeo, onde sintetizamos as principais análise
 
 ## 👥 Integrantes do Grupo
 
-* **Arthur Lee** - *[RA/Matrícula ou função no trabalho]*
-* **[Nome do Integrante 2]** - *[RA/Matrícula ou função no trabalho]*
-* **[Nome do Integrante 3]** - *[RA/Matrícula ou função no trabalho]*
-* **[Nome do Integrante 4]** - *[RA/Matrícula ou função no trabalho]*
+* **Arthur Jin Woo Lee** - *22.01519-0*
+* **André Renato Almeida Abreu ** - *22.01255-9*
+* **Fernando Minharro Alves Gimenez** - *22.00833-0*
+* **Leonardo Henrique Dias Moura ** - *21.01837-5*
+* ***Leonardo Tagliati da Silva ** - *22.00170-0*
 
 ---
 
