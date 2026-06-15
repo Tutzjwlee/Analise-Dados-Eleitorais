@@ -11,78 +11,70 @@ Este repositório contém a entrega final do projeto de Ciência de Dados, divid
 1. [Visão Geral dos Sub-projetos](#-visão-geral-dos-sub-projetos)
 2. [Entregáveis e Links Rápidos](#-entregáveis-e-links-rápidos)
 3. [Como Executar](#-como-executar)
-4. [Apresentação e Slides](#-apresentação-e-slides)
-5. [Integrantes do Grupo](#-integrantes-do-grupo)
-6. [Referências e Declaração de Uso de IA](#-referências-e-declaração-de-uso-de-ia)
+4. [Integrantes do Grupo](#-integrantes-do-grupo)
+5. [Referências e Declaração de Uso de IA](#-referências-e-declaração-de-uso-de-ia)
 
 ---
 
-## 🔍 Visão Geral dos Sub-projetos
+## 🔍 Visão Geral dos Subprojetos
 
-### 1. Pesquisas de Opinião (`Eleitoral_final.ipynb`)
-Análise Exploratória de Dados (EDA) baseada em uma pesquisa de opinião nacional do instituto **Ipec (acervo Cesop)**. O recorte temático investiga a relação entre o **engajamento e memória eleitoral** (eleições de 2022) e atitudes políticas cotidianas, como as prioridades de governo e a posição sobre o combate às *fake news*.
+### ✅ Parte A – Pesquisas de Opinião (`Entrega_A_Pesquisa_Opiniao`)
+Análise Exploratória de Dados (EDA) baseada em uma pesquisa de opinião nacional do **Ipec (acervo Cesop)**. O recorte temático investiga a relação entre o **engajamento e memória eleitoral** (eleições de 2022) e atitudes políticas cotidianas, como prioridades de governo e posicionamento sobre o combate às *fake news*.
 
-### 2. Séries Temporais (`[Nome_do_Notebook_Series_Temporais].ipynb`)
-*[Escreva 2 ou 3 linhas descrevendo o projeto de séries temporais: qual o dataset utilizado, o fenômeno analisado e o objetivo principal (ex: previsão de valores futuros, análise de sazonalidade, etc.)]*
+### ✅ Parte B – Séries Temporais (`Entrega_B_Series_Temporais`)
+Análise completa da evolução da **inadimplência no Brasil** utilizando dados públicos do **Banco Central do Brasil (BCB/SGS)**. Foram analisadas as séries de inadimplência total, pessoas físicas e jurídicas, correlacionadas com **Taxa Selic, câmbio e desemprego**. O estudo abrange o período de março/2012 a abril/2026 e inclui decomposição sazonal, autocorrelação e análise de defasagem (*cross‑correlation*).
 
 ---
 
 ## 📦 Entregáveis e Links Rápidos
 
-Todos os artefatos exigidos para a avaliação estão mapeados abaixo:
+### 📁 Entrega A – Pesquisa de Opinião
+- **Notebook (Colab):** [Abrir notebook](link-para-o-notebook-A)
+- **Texto da Análise:** [Visualizar PDF](link-para-o-texto-A.pdf)
+- **Slides da Apresentação:** [Baixar slides](link-para-os-slides-A.pdf)
+- **Vídeo (YouTube):** [Assistir à apresentação](link-do-video-A)
 
-- **📓 Notebooks de Análise:**
-  - [Acessar Notebook: Pesquisa de Opinião](link-para-o-colab-1)
-  - [Acessar Notebook: Séries Temporais](link-para-o-colab-2)
-- **📂 Bases de Dados:**
-  - Os dados utilizados estão disponíveis publicamente e não excedem os limites do GitHub. Estão localizados na pasta `/data` deste repositório. 
-  - *[NOTA: Se algum dado for maior que o limite, apague a linha acima e use: "Os dados excedem o limite do GitHub e podem ser acessados neste [Drive Público](link-do-drive)".]*
-- **📄 Texto do Trabalho (Introdução, Métodos e Conclusão):**
-  - O texto analítico da *Pesquisa de Opinião* foi embutido diretamente nas células de formatação (Markdown) dentro do próprio notebook `Eleitoral_final.ipynb`.
-  - O texto de *Séries Temporais* encontra-se no arquivo `[Nome_do_Arquivo.pdf/.docx/.md]`.
+### 📁 Entrega B – Séries Temporais
+- **Notebook (Colab):** [Abrir notebook](link-para-o-notebook-B)
+- **Texto da Análise:** [Visualizar PDF](link-para-o-texto-B.pdf)
+- **Slides da Apresentação:** [Baixar slides](link-para-os-slides-B.pdf)
+- **Vídeo (YouTube):** [Assistir à apresentação](link-do-video-B)
 
 ---
 
 ## 🚀 Como Executar
 
-A reprodutibilidade foi garantida. Os notebooks são **100% executáveis no Google Colab**, sem a necessidade de transferências manuais, inserção de senhas ou modificação de caminhos lógicos.
+Os notebooks são **100% executáveis no Google Colab** e não exigem configuração manual de ambiente. Basta seguir os passos:
 
-1. Clique nos links fornecidos na seção de [Entregáveis](#-entregáveis-e-links-rápidos) para abrir os notebooks no Colab.
-2. No menu superior do Google Colab, clique em `Ambiente de execução` > `Executar tudo` (ou atalho `Ctrl + F9`).
-3. As bases de dados são importadas dinamicamente via link bruto (Raw) do GitHub ou APIs públicas durante a execução da primeira célula de setup.
+1. Acesse os links dos notebooks fornecidos acima (eles abrirão diretamente no Colab).
+2. No menu do Colab, clique em `Ambiente de execução` → `Executar tudo` (ou pressione `Ctrl+F9`).
+3. Os dados serão carregados automaticamente via APIs ou URLs públicas durante a execução.
 
----
-
-## 🎥 Apresentação e Slides
-
-Confira nossa apresentação em vídeo, onde sintetizamos as principais análises e conclusões em menos de 5 minutos:
-
-* 📺 **Vídeo no YouTube:** [Assistir à Apresentação](link-do-youtube)
-* 📊 **Slides (PDF/Canva):** [Acessar Material de Apoio](link-dos-slides)
+> Caso prefira executar localmente, certifique-se de ter as bibliotecas listadas na primeira célula de cada notebook.
 
 ---
 
 ## 👥 Integrantes do Grupo
 
-* **Arthur Jin Woo Lee** - *22.01519-0*
-* **André Renato Almeida Abreu ** - *22.01255-9*
-* **Fernando Minharro Alves Gimenez** - *22.00833-0*
-* **Leonardo Henrique Dias Moura ** - *21.01837-5*
-* ***Leonardo Tagliati da Silva ** - *22.00170-0*
+- **Arthur Jin Woo Lee** - *22.01519-0*
+- **André Renato Almeida Abreu** - *22.01255-9*
+- **Fernando Minharro Alves Gimenez** - *22.00833-0*
+- **Leonardo Henrique Dias Moura** - *21.01837-5*
+- **Leonardo Tagliati da Silva** - *22.00170-0*
 
 ---
 
 ## 📚 Referências e Declaração de Uso de IA
 
 ### Referências Principais
-* CESOP - Centro de Estudos de Opinião Pública. *Pesquisa de Opinião Nacional - Ipec*. Acesso em: [Data de Acesso].
-* *[Adicione aqui o autor/fonte da base de dados de Séries Temporais]*
-* *[Adicione bibliografia adicional, se houver]*
+- **BCB – Banco Central do Brasil**. *Sistema Gerenciador de Séries Temporais (SGS)*. Dados de inadimplência, Selic, câmbio e desemprego. Acesso via API REST.
+- **CESOP – Centro de Estudos de Opinião Pública**. *Pesquisa de Opinião Nacional – Ipec* (acervo utilizado para a Parte A).
+- *Outras referências específicas estão citadas nos próprios notebooks.*
 
 ### Declaração de Uso de Inteligência Artificial
-Em conformidade com as diretrizes do projeto, declaramos o uso de ferramentas de Inteligência Artificial Generativa (ex: ChatGPT, Gemini, Claude) estritamente como assistentes de codificação e produtividade. Os usos englobaram:
+Em conformidade com as diretrizes do projeto, declaramos o uso de ferramentas de IA Generativa (ex: ChatGPT, Gemini, Claude) **exclusivamente como assistentes de codificação e produtividade**. Os usos incluíram:
 - Geração de *snippets* para aprimoramento estético de gráficos (Matplotlib/Seaborn).
 - Auxílio na refatoração e otimização de funções Python.
 - Revisão gramatical de partes do texto final.
 
-Nenhuma etapa de validação cruzada, interpretação do comportamento sociopolítico ou tomada de decisão metodológica sobre os modelos aplicados foi delegada de forma autônoma às ferramentas de IA. A autoria analítica pertence inteiramente ao grupo.
+Nenhuma etapa de validação cruzada, interpretação dos fenômenos políticos/econômicos ou tomada de decisão metodológica sobre os modelos foi delegada de forma autônoma às ferramentas de IA. A autoria analítica pertence integralmente ao grupo.
