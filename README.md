@@ -30,13 +30,13 @@ Análise completa da evolução da **inadimplência no Brasil** utilizando dados
 
 ### 📁 Entrega A
 - **Notebook (Colab):** [Abrir notebook](https://colab.research.google.com/drive/1a9Mhg2Ohan4gK5E8hybe-TwZwiKQ3kk3?usp=sharing)
-- **Texto Resumo:** [Visualizar MD]([link-para-o-texto-A.pdf](https://github.com/Tutzjwlee/Analise-Dados-Eleitorais/blob/main/Entrega_A/Resumo.md))
+- **Texto Resumo:** [Visualizar MD](https://github.com/Tutzjwlee/Analise-Dados-Eleitorais/blob/main/Entrega_A/Resumo.md)
 - **Slides da Apresentação:** [Baixar slides](link-para-os-slides-A.pdf)
 - **Vídeo (YouTube):** [Assistir à apresentação](link-do-video-A)
 
 ### 📁 Entrega B
 - **Notebook (Colab):** [Abrir notebook](https://colab.research.google.com/drive/11xduGKlTtZYul0bL0esx_W8LKARXatXo?usp=sharing)
-- **Texto Resumo:** [Visualizar MD]([link-para-o-texto-B.pdf](https://github.com/Tutzjwlee/Analise-Dados-Eleitorais/blob/main/Entrega_B/Resumo.md))
+- **Texto Resumo:** [Visualizar MD](https://github.com/Tutzjwlee/Analise-Dados-Eleitorais/blob/main/Entrega_B/Resumo.md)
 - **Slides da Apresentação:** [Baixar slides](link-para-os-slides-B.pdf)
 - **Vídeo (YouTube):** [Assistir à apresentação](link-do-video-B)
 
