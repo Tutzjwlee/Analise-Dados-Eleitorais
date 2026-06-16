@@ -31,14 +31,13 @@ Análise completa da evolução da **inadimplência no Brasil** utilizando dados
 ### 📁 Entrega A
 - **Notebook (Colab):** [Abrir notebook](https://colab.research.google.com/drive/1a9Mhg2Ohan4gK5E8hybe-TwZwiKQ3kk3?usp=sharing)
 - **Texto Resumo:** [Visualizar MD](https://github.com/Tutzjwlee/Analise-Dados-Eleitorais/blob/main/Entrega_A/Resumo.md)
-- **Slides da Apresentação:** [Baixar slides](link-para-os-slides-A.pdf)
-- **Vídeo (YouTube):** [Assistir à apresentação](link-do-video-A)
 
 ### 📁 Entrega B
 - **Notebook (Colab):** [Abrir notebook](https://colab.research.google.com/drive/11xduGKlTtZYul0bL0esx_W8LKARXatXo?usp=sharing)
 - **Texto Resumo:** [Visualizar MD](https://github.com/Tutzjwlee/Analise-Dados-Eleitorais/blob/main/Entrega_B/Resumo.md)
-- **Slides da Apresentação:** [Baixar slides](link-para-os-slides-B.pdf)
-- **Vídeo (YouTube):** [Assistir à apresentação](link-do-video-B)
+
+**Slides da Apresentação:** [Baixar slides](link-para-os-slides-B.pdf)
+**Vídeo (YouTube):** [Assistir à apresentação](link-do-video-B)
 
 ---
 
@@ -77,5 +76,6 @@ Em conformidade com as diretrizes do projeto, declaramos o uso de ferramentas de
 - Geração de *snippets* para aprimoramento estético de gráficos (Matplotlib/Seaborn).
 - Auxílio na refatoração e otimização de funções Python.
 - Revisão gramatical de partes do texto final.
+- Ajuda na criação dos slides e do roteiro do video (Uso estético, gramatical e organizacional da estrutura dos slide e apresentções)
 
 Nenhuma etapa de validação cruzada, interpretação dos fenômenos políticos/econômicos ou tomada de decisão metodológica sobre os modelos foi delegada de forma autônoma às ferramentas de IA. A autoria analítica pertence integralmente ao grupo.
